@@ -1,1 +1,1 @@
-# DBMS-mini-project
+# lodge management system(DBMS-mini-project)
